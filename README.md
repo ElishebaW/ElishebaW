@@ -31,7 +31,16 @@ GenAI • Java • JavaScript • React • TypeScript • AWS • Hibernate •
 
 ---
 
+## 🌟 Featured Projects
+- **[Time Analyzer AI](https://github.com/ElishebaW/time-analyzer-ai)** – Developed an AI-powered tool to analyze daily time usage and implement a RAG (Retrieval-Augmented Generation) pipeline for personalized Q&A over private data.
+- **[Spring AI and Next.js Recipe Creator](https://github.com/ElishebaW/spring-ai-local-llm)** – Created an AI-driven recipe generator using Spring AI and Next.js, enabling dynamic, LLM-assisted content generation.
+  
+---
+
 ## 📫 Connect with me
 - [LinkedIn](https://linkedin.com/in/elishebawiggins)
 - [Medium](https://medium.com/@elisheba.t.anderson)
+
+![Elisheba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElishebaW&show_icons=true&theme=default)
+
 
