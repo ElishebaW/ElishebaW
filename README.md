@@ -41,6 +41,5 @@ GenAI • Java • JavaScript • React • TypeScript • AWS • Hibernate •
 - [LinkedIn](https://linkedin.com/in/elishebawiggins)
 - [Medium](https://medium.com/@elisheba.t.anderson)
 
-![Elisheba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElishebaW&show_icons=true&theme=default)
 
 
