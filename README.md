@@ -13,7 +13,7 @@ GenAI • Java • JavaScript • React • TypeScript • AWS • Hibernate •
 ## 🚀 Current Focus
 - Developing AI-driven internal tools to streamline workflows
 - Exploring LLM projects using local models (LLaMA, Mistral) and CrewAI
-- Writing about hands-on AI experiments and engineering insights on [Medium](https://medium.com/@elisheba.t.anderson)
+- Writing about hands-on GenAI experiments and engineering insights on [Medium](https://medium.com/@elisheba.t.anderson)
 
 ---
 
