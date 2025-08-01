@@ -1,6 +1,6 @@
 # Hi, I'm Elisheba Anderson 👋
 
-I'm a Senior Software Engineer with 6+ years of experience building scalable, secure, and impactful software solutions.  
+I'm a Senior Software Engineer with 7+ years of experience building scalable, secure, and impactful software solutions.  
 I specialize in tackling complex, ambiguous challenges, architecting distributed systems, and mentoring teams to deliver high-quality results.
 
 ---
