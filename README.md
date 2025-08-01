@@ -6,7 +6,7 @@ I specialize in tackling complex, ambiguous challenges, architecting distributed
 ---
 
 ## 💻 Tech Skills
-GenAI • Java • JavaScript • React • TypeScript • AWS • Hibernate • MySQL • PostgreSQL • NoSQL
+GenAI • Python • Java • JavaScript • React • TypeScript • AWS • Hibernate • MySQL • PostgreSQL • NoSQL
 
 ---
 
