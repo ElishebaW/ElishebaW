@@ -46,4 +46,4 @@ I build cloud-native distributed systems, retrieval pipelines, and LLM-powered a
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/elishebawiggins) ,• [Medium](https://medium.com/@elisheba.t.anderson)
+- [LinkedIn](https://linkedin.com/in/elishebawiggins) • [Medium](https://medium.com/@elisheba.t.anderson)
